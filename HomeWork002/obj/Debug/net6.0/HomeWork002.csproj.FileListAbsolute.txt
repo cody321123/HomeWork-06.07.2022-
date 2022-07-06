@@ -1,0 +1,15 @@
+C:\Codyplz\HomeWork(06.07.2022)\HomeWork002\bin\Debug\net6.0\HomeWork002.exe
+C:\Codyplz\HomeWork(06.07.2022)\HomeWork002\bin\Debug\net6.0\HomeWork002.deps.json
+C:\Codyplz\HomeWork(06.07.2022)\HomeWork002\bin\Debug\net6.0\HomeWork002.runtimeconfig.json
+C:\Codyplz\HomeWork(06.07.2022)\HomeWork002\bin\Debug\net6.0\HomeWork002.dll
+C:\Codyplz\HomeWork(06.07.2022)\HomeWork002\bin\Debug\net6.0\HomeWork002.pdb
+C:\Codyplz\HomeWork(06.07.2022)\HomeWork002\obj\Debug\net6.0\HomeWork002.csproj.AssemblyReference.cache
+C:\Codyplz\HomeWork(06.07.2022)\HomeWork002\obj\Debug\net6.0\HomeWork002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codyplz\HomeWork(06.07.2022)\HomeWork002\obj\Debug\net6.0\HomeWork002.AssemblyInfoInputs.cache
+C:\Codyplz\HomeWork(06.07.2022)\HomeWork002\obj\Debug\net6.0\HomeWork002.AssemblyInfo.cs
+C:\Codyplz\HomeWork(06.07.2022)\HomeWork002\obj\Debug\net6.0\HomeWork002.csproj.CoreCompileInputs.cache
+C:\Codyplz\HomeWork(06.07.2022)\HomeWork002\obj\Debug\net6.0\HomeWork002.dll
+C:\Codyplz\HomeWork(06.07.2022)\HomeWork002\obj\Debug\net6.0\refint\HomeWork002.dll
+C:\Codyplz\HomeWork(06.07.2022)\HomeWork002\obj\Debug\net6.0\HomeWork002.pdb
+C:\Codyplz\HomeWork(06.07.2022)\HomeWork002\obj\Debug\net6.0\HomeWork002.genruntimeconfig.cache
+C:\Codyplz\HomeWork(06.07.2022)\HomeWork002\obj\Debug\net6.0\ref\HomeWork002.dll
